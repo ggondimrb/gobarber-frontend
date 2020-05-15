@@ -25,7 +25,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-body, input, button, p, time {
+body, input, button, p, time, strong {
   font: 14px, 'Roboto', sans-serif;
 }
 
