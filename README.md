@@ -14,7 +14,7 @@ npm install
 ### To start run:
 
 ```bash
-yarn dev
+yarn start
 
-npm run dev
+npm run start
 ```
